@@ -1,0 +1,86 @@
+baseURL = 'https://kaushalhpatel.com/'
+languageCode = 'en-us'
+title = 'Kaushal Patel'
+theme = 'typo'
+
+# Google analytics code
+googleAnalytics = "G-xxxxxxxxx"
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+    description = "My engineering portfolio"
+    pronunciation = "/ˈkoʊ.ʃəl pəˈtɛl/"
+    pronouns = "he/him"
+
+# Appearance settings
+theme = 'light'
+colorPalette = 'karan'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = "About Me"
+homeIntroContent = """
+Hey, I'm Kaushal 👋 I thrive in high intensity environments and focus on building **robust solutions** for impactful problems.
+
+Currently, I'm a third year PhD student at the [University of California, Irvine](https://engineering.uci.edu/dept/mae/research) where I am studying **Mechanical and Aerospace Engineering**. My research focuses on developing robotic hardware for stroke rehabilitation.
+
+Previously, I interned at **Tesla** where I led root cause analysis on the [thermal design team](https://www.youtube.com/watch?v=DyGgrkeds5U). Generally, my interests and strengths lie in the domain of **mechanical design**, as well as **dynamics and controls**!
+"""
+
+# Contact info to display on home
+homeContactTitle = 'Contact'
+homeContactContent = """
+Please feel free to contact me at [patelhkaushal [at] gmail [dot] com](mailto:patelhkaushal@gmail.com) if you have any questions or if you'd like to discuss any potential opportunities!
+"""
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = 'January 2006'
+
+# Breadcrumbs
+breadcrumbs = true
+
+# Social icons
+[[params.social]]
+name = "github"
+url = "https://github.com/kaushalHPatel"
+
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/kaushalhpatel/"
+
+
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "experience"
+url = "/experience"
+
+[[params.menu]]
+name = "resume"
+url = "/resume"
+
+[[params.menu]]
+name = "coursework"
+url = "/coursework"
+
+[[params.menu]]
+name = "hobbies"
+url = "/hobbies"
+
+# Giscus comments
+[params.giscus]
+enable = false
+repo = "user/repo"
+repoid = "repoId"
+category = "General"
+categoryid = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"
