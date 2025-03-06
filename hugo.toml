@@ -13,6 +13,7 @@ tag = 'tags'
     description = "My engineering portfolio"
     pronunciation = "/ˈkoʊ.ʃəl pəˈtɛl/"
     pronouns = "he/him"
+    resumeLink = "google.com"
 
 # Appearance settings
 theme = 'light'
@@ -39,9 +40,12 @@ Please feel free to contact me at [patelhkaushal [at] gmail [dot] com](mailto:pa
 paginationSize = 100
 listSummaries = true
 listDateFormat = 'January 2006'
+singleDateFormat = 'January 2006'
+pluralizeListTitles = false
+showDate = true
 
 # Breadcrumbs
-breadcrumbs = true
+breadcrumbs = false
 
 # Social icons
 [[params.social]]
@@ -68,12 +72,8 @@ name = "resume"
 url = "/resume"
 
 [[params.menu]]
-name = "coursework"
-url = "/coursework"
-
-[[params.menu]]
-name = "hobbies"
-url = "/hobbies"
+name = "unwind"
+url = "/unwind"
 
 # Giscus comments
 [params.giscus]

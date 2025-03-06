@@ -5,12 +5,13 @@ draft = true
 
 description= "Your Description"
 
-toc= true
+toc= false
 autonumber= true
 math= true
 
-readTime= true
+readTime= false
 hideBackToTop= true
 hidePagination= true
+showDate = false
 
 +++

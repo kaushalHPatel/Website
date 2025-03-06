@@ -3,6 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-05T20:50:07-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/resume/</loc>
+    <lastmod>2025-03-05T20:50:07-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/unwind/</loc>
+    <lastmod>2025-03-05T19:08:51-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experience/</loc>
+    <lastmod>2025-03-05T14:44:02-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experience/tesla/</loc>
+    <lastmod>2025-03-05T14:44:02-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

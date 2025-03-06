@@ -1,16 +1,17 @@
 +++
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-date = {{ .Date }}
+title = 'Resume'
+date = 2025-03-05T20:50:07-08:00
 draft = true
 
 description= "Your Description"
 
-toc= true
+toc= false
 autonumber= true
 math= true
 
-readTime= true
+readTime= false
 hideBackToTop= true
 hidePagination= true
+showDate = false
 
 +++
