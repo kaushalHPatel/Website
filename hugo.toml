@@ -13,7 +13,7 @@ tag = 'tags'
     description = "My engineering portfolio"
     pronunciation = "/ˈkoʊ.ʃəl pəˈtɛl/"
     pronouns = "he/him"
-    resumeLink = "google.com"
+    resumeLink = '\assets\KaushalPatelResume.pdf'
 
 # Appearance settings
 theme = 'light'
@@ -43,6 +43,7 @@ listDateFormat = 'January 2006'
 singleDateFormat = 'January 2006'
 pluralizeListTitles = false
 showDate = true
+showRange = true
 
 # Breadcrumbs
 breadcrumbs = false
@@ -68,8 +69,8 @@ name = "experience"
 url = "/experience"
 
 [[params.menu]]
-name = "resume"
-url = "/resume"
+name = "notebook"
+url = "/notebook"
 
 [[params.menu]]
 name = "unwind"

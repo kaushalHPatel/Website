@@ -1,6 +1,6 @@
 +++
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-date = {{ .Date }}
+title = 'My Thoughts On Grad School'
+date = 2025-03-07T14:52:20-08:00
 draft = true
 
 description= "Your Description"
@@ -12,7 +12,7 @@ math= true
 readTime= true
 hideBackToTop= true
 hidePagination= true
-showDate = false
+showDate = true
 showRange = false
 
 +++

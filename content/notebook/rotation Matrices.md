@@ -1,17 +1,18 @@
 +++
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-date = {{ .Date }}
+title = 'Rotation Matrices'
+date = 2025-03-07T14:50:15-08:00
 draft = true
 
 description= "Your Description"
 
-toc= false
+toc= true
 autonumber= true
 math= true
 
-readTime= false
+readTime= true
 hideBackToTop= true
 hidePagination= true
-showDate = false
+showDate = true
+showRange = false
 
 +++
