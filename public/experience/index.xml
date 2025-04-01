@@ -6,14 +6,35 @@
     <description>Recent content in Experiences on Kaushal Patel</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Mar 2025 14:44:02 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 20:15:48 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tesla</title>
       <link>http://localhost:1313/experience/tesla/</link>
       <pubDate>Wed, 05 Mar 2025 14:44:02 -0800</pubDate>
       <guid>http://localhost:1313/experience/tesla/</guid>
-      <description></description>
+      <description>Thermal Engineering intern working on root cause investigation for component failures</description>
+    </item>
+    <item>
+      <title>Momentus</title>
+      <link>http://localhost:1313/experience/momentus/</link>
+      <pubDate>Mon, 31 Mar 2025 20:15:24 -0700</pubDate>
+      <guid>http://localhost:1313/experience/momentus/</guid>
+      <description>R&amp;amp;D propulsion intern working on long duration testing and thruster variants</description>
+    </item>
+    <item>
+      <title>Rehabilitation and Augmentation Lab</title>
+      <link>http://localhost:1313/experience/ral/</link>
+      <pubDate>Mon, 31 Mar 2025 20:15:31 -0700</pubDate>
+      <guid>http://localhost:1313/experience/ral/</guid>
+      <description>Graduate Student Researcher working on robotic hardware for stroke rehabilitation</description>
+    </item>
+    <item>
+      <title>Hyperxite</title>
+      <link>http://localhost:1313/experience/hyperxite/</link>
+      <pubDate>Mon, 31 Mar 2025 20:15:48 -0700</pubDate>
+      <guid>http://localhost:1313/experience/hyperxite/</guid>
+      <description>Chief Engineer and Technical Contributor on a team of thirty undergraduates</description>
     </item>
   </channel>
 </rss>

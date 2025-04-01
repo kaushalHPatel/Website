@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/experience/tesla/</loc>
+    <lastmod>2025-03-05T14:44:02-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experience/momentus/</loc>
+    <lastmod>2025-03-31T20:15:24-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experience/ral/</loc>
+    <lastmod>2025-03-31T20:15:31-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experience/hyperxite/</loc>
+    <lastmod>2025-03-31T20:15:48-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/experience/</loc>
+    <lastmod>2025-03-31T20:15:48-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-07T14:52:20-08:00</lastmod>
+    <lastmod>2025-03-31T20:15:48-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notebook/thoughtsongradschool/</loc>
     <lastmod>2025-03-07T14:52:20-08:00</lastmod>
@@ -16,12 +31,6 @@
   </url><url>
     <loc>http://localhost:1313/unwind/</loc>
     <lastmod>2025-03-05T19:08:51-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/experience/</loc>
-    <lastmod>2025-03-05T14:44:02-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/experience/tesla/</loc>
-    <lastmod>2025-03-05T14:44:02-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
