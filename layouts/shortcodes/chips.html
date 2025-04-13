@@ -1,3 +1,8 @@
-<span class="chips">
+<!--<span class="chips">
     {{ .Inner | markdownify | safeHTML }}
-</span>
+</span> !-->
+
+{{- $chips := split .Inner "," -}}
+{{- range $chips -}}
+  <span class="chips">{{ trim . " " | markdownify | safeHTML}}</span>
+{{- end -}}

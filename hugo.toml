@@ -44,6 +44,7 @@ singleDateFormat = 'January 2006'
 pluralizeListTitles = false
 showDate = true
 showRange = true
+showDateOnMain = false
 
 # Breadcrumbs
 breadcrumbs = false

@@ -7,7 +7,7 @@ weight = 3
 description= ""
 summary = "Graduate Student Researcher working on robotic hardware for stroke rehabilitation"
 
-toc= true
+toc= false
 autonumber= false
 math= true
 
@@ -16,16 +16,17 @@ hideBackToTop= true
 hidePagination= true
 showDate = false
 showRange = true
-dateRange = "September 2022 - Current"
+dateRange = "September 2022 — Current"
 +++
 
-**Skills**
+## Skills Utilized
 
-{{< chips >}}SolidWorks{{< /chips >}} {{< chips >}}3D Printing{{< /chips >}}
+{{< chips >}}SolidWorks, Experiment Design, MATLAB, Simulink Real-Time, HIL Testing, 3D Printing, Finite Element Analysis, Controller Design, Mentorship{{< /chips >}}
 
-## Project Overview
+## Overview
+Currently, I'm a third year PhD student working on developing robotic hardware for stroke rehabilitation. My research involves multiple domains from mechanical design, human-computer interaction, and controller design/tuning. During my time as a graduate student researcher, I have contributed to, as well as lead multiple projects.
 
-
+My main project is to design, validate, and test a cable drive, bidirectional ankle exoskeleton. I own all parts of this project and have done extensive design, iteration, and prototyping to optimize on complexity and mass. Currently, I'm working on writing new controllers in MATLAB/Simulink Real-Time and testing them on people to collect gait metrics. Coupled with intrinsic capability measures, I aim to find correlations between physical attributes and robotic assisted therapy outcomes.
 ## At a Glance
 {{< columns >}}
 
@@ -58,10 +59,48 @@ I gained exposure into various facets of mechanical design including:
 * Optimizing custom designs
 * Rapid prototyping and iteration
 
-
-
 {{< /columns >}}
 
+## Background
+Motor impairment affects roughly 18.6% of Americans. Existing therapies focus on retraining specific movements, but they often fail to translate to functional mobility in real-world settings. Robotic devices are a promising tool for adaptive and individualized therapy but are currently underutilized in clinical settings. 
 
+Most exoskeletons provide assistance to the user by injecting torque at specific phases of the gait cycle to augment movement. Studies show that healthy individuals often benefit from this assistance through reduced energy expenditure and muscle activation. But individuals with motor impairment typically do not experience the same level of improvement. Additionally, there is still a large gap in our understanding of how motor learning occurs in impaired individuals and our ability to predict patient outcomes from therapies.
+
+My research aims to address these questions by:
+
+* Developing a bidirectionally actuating exoskeleton that can provide assistive and resistive torque at the ankle
+* Building a library of controllers that can manipulate the user's gait to explore different therapeutic strategies
+* Creating a model that can predict patient outcome from different exoskeleton therapies based on intrinsic capabilities
+
+## Mechanical Design
+
+### Defining Requirements
+
+The requirements for the exoskeleton fell into two categories: functional requirements and performance requirements. The functional requirements were safety and comfort oriented. Performance requirements were defined so that the hardware did not limit the controller.
+
+| Item  | In Stock | Price |
+| :---: | :---: | :---: |
+| Python Hat        |   True   | 23.99 |
+| SQL Hat           |   True   | 23.99 |
+| Codecademy Tee    |  False   | 19.99 |
+| Codecademy Hoodie |  False   | 42.99 |
+
+### Design
+
+### Sensor Selection and Integration
+
+### Analysis
+
+## Validation
+
+### Test Rig
+
+### Results
+
+## Controller Design
+
+## Future Work
+
+## Mentorship
 
 

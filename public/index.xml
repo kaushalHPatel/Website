@@ -30,25 +30,25 @@
       <description>Graduate Student Researcher working on robotic hardware for stroke rehabilitation</description>
     </item>
     <item>
-      <title>Hyperxite</title>
+      <title>HyperXite</title>
       <link>http://localhost:1313/experience/hyperxite/</link>
       <pubDate>Mon, 31 Mar 2025 20:15:48 -0700</pubDate>
       <guid>http://localhost:1313/experience/hyperxite/</guid>
-      <description>Chief Engineer and Technical Contributor on a team of thirty undergraduates</description>
+      <description>Chief Engineer and Technical Contributor on a team of thirty undergraduates building a scale hyperloop pod</description>
     </item>
     <item>
       <title>My Thoughts On Grad School</title>
       <link>http://localhost:1313/notebook/thoughtsongradschool/</link>
       <pubDate>Fri, 07 Mar 2025 14:52:20 -0800</pubDate>
       <guid>http://localhost:1313/notebook/thoughtsongradschool/</guid>
-      <description></description>
+      <description>My thoughts on the importance of graduate school and what it really teaches you</description>
     </item>
     <item>
-      <title>Rotation Matrices</title>
-      <link>http://localhost:1313/notebook/rotation-matrices/</link>
+      <title>Quaternions</title>
+      <link>http://localhost:1313/notebook/quaternions/</link>
       <pubDate>Fri, 07 Mar 2025 14:50:15 -0800</pubDate>
-      <guid>http://localhost:1313/notebook/rotation-matrices/</guid>
-      <description></description>
+      <guid>http://localhost:1313/notebook/quaternions/</guid>
+      <description>Understanding how quaternions simplify 3D rotation and eliminate gimbal lock</description>
     </item>
     <item>
       <title>Unwind</title>

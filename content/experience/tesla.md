@@ -7,7 +7,7 @@ weight = 1
 description= ""
 summary="Thermal Engineering intern working on root cause investigation for component failures"
 
-toc= true
+toc= false
 autonumber= false
 math= true
 
@@ -17,7 +17,7 @@ hidePagination= true
 showDate = false
 showRange = true
 
-dateRange = "June 2022 - September 2022"
+dateRange = "June 2022 — September 2022"
 +++
 
 **Skills**
