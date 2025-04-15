@@ -78,12 +78,21 @@ My research aims to address these questions by:
 
 The requirements for the exoskeleton fell into two categories: functional requirements and performance requirements. The functional requirements were safety and comfort oriented. Performance requirements were defined so that the hardware did not limit the controller.
 
-| Item  | In Stock | Price |
-| :---: | :---: | :---: |
-| Python Hat        |   True   | 23.99 |
-| SQL Hat           |   True   | 23.99 |
-| Codecademy Tee    |  False   | 19.99 |
-| Codecademy Hoodie |  False   | 42.99 |
+
+| Design Requirement             |              Metric       |
+|--------------------------------|---------------------------|
+| Mass                           | < 1 kg                    |
+| Torque                         | > 60 Nm                   |
+| Plantarflexion Range of Motion | 55 degrees                |
+| Dorsiflexion Range of Motion   | 20 degrees                |
+
+
+| Performance Requirement        |         Metric            |
+|--------------------------------|---------------------------|
+| Torque Resolution              | < 1 Nm                    |
+| Angle Sensing Resolution       | < 0.1 degrees             |
+| Bandwidth                      | > 10 Hz                   |
+
 
 ### Design
 

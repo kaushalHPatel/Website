@@ -29,7 +29,7 @@ I've always had a sweet tooth and wanted to learn how to make some of my favorit
 
 I try to bake using gluten free flour and egg substitutes like apple sauce or greek yogurt. I find that greek yogurt adds more moisture and results in a softer texture which I like.
 
-{{< sidebyside "coffeeCakeCookies.jpg" "peppermintMatchaCookies.jpg" "Coffee Cake Cookies" "Coffee Cake Cookies from Gilmore Girls" "Peppermint Matcha Cookies" "Peppermint Matcha Cookies" >}}
+{{< sidebyside "coffeeCakeCookies.jpg" "peachCobbler.jpg" "Coffee Cake Cookies" "Coffee Cake Cookies from Gilmore Girls" "Peach Cobbler" "Gluten free Peach Cobbler with fresh peaches" >}}
 
 ## Cycling 
 When the weather is nice and I have a few spare hours on the weekend, I try to get out and ride my single speed road bike. Irvine has some great trails that lead from the UCI campus out to Newport Beach. Here are some of my favorite pictures I have taken while on a ride:
